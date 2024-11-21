@@ -1,0 +1,35 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+h1 {
+    color: #4CAF50;
+}
+h2 {
+    color: #2196F3;
+}
+h3 {
+    color: #FF5722;
+}
+p {
+    font-size: 16px;
+}
+ul, ol {
+    margin: 10px 0;
+    padding: 0 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
